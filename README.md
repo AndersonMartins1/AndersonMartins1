@@ -5,8 +5,7 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="![foto ](https://github.com/AndersonMartins1/AndersonMartins1/assets/144822852/6b826ef8-ed0d-4cc5-a0f1-8cd7ab91a28f)
-" />
+<img width=55% align="center"  src="foto" />
 <img width=40% align="center" src="https://github.com/AndersonMartins1" />
  </div>
  
