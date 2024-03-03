@@ -62,8 +62,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
  &nbsp;
  &nbsp;
 
- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2001042/screenshots/4951997/developmentanimation.gif" target="_blank"><img/>
-
 
 ## My Skills
 
