@@ -49,7 +49,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats   
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://i.gifer.com/origin/22/22657b8a577f858827c5d46dac32cf53.gif" />
   
 
 <img align="center" style="margin-bottom:50px" width=25% src="https://images.search.yahoo.com/images/view;_ylt=AwrhQi8UkuRlv7IBzDmJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2E3MjFiZTY4ZTZlMzliZjhiOWI0YmY4ZTllMWNhYjZlBGdwb3MDMQRpdANiaW5n?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dgifs%2Bdev%26ei%3DUTF-8%26fr%3Dmcafee_uninternational%26fr2%3Dp%253As%252Cv%253Ai%252Cm%253Asb-top%26tab%3Dorganic%26ri%3D1&w=800&h=600&imgurl=cdn.dribbble.com%2Fusers%2F2001042%2Fscreenshots%2F4951997%2Fdevelopmentanimation.gif&rurl=https%3A%2F%2Fdribbble.com%2Fyarndigital&size=847.8KB&p=gifs+dev&oid=a721be68e6e39bf8b9b4bf8e9e1cab6e&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&fr=mcafee_uninternational&tt=Chris+Cotton+%7C+Dribbble&b=0&ni=160&no=1&ts=&tab=organic&sigr=qRdPDv.lz8OU&sigb=dZAiDhpt9pRj&sigi=aTyLNHT1nnmo&sigt=DN0biiUnfhUS&.crumb=jnvNBv5x.JP&fr=mcafee_uninternational&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top" />
