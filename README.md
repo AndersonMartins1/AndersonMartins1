@@ -1,7 +1,6 @@
-hi, i'm [AndersonMartins1](https://abhishknads.me/), a passionate self-taught frontend developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hello, I'm AndersonMartins1, a passionate self-taught frontend developer and freelancer. Currently, I'm Brazilian and living in the Czech Republic. I'm stepping into the development community and seeking job opportunities. My love for software lies in envisioning ideas and bringing them to life with elegant interfaces. I deeply care about the user experience, architecture, and code quality of the products I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
+Furthermore, I have a strong passion for games and applications, and I'm constantly learning and improving with each passing day. I'm eager to contribute to exciting projects and be part of a vibrant community of developers. Additionally, I'm an enthusiast and maintainer of open-source projects. I've learned a great deal from the open-source community and appreciate how collaboration and knowledge sharing thrive in this environment.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
