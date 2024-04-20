@@ -112,7 +112,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ## Contacts:
 
 <div> 
-<a href = "mailto:contato.AndersonMartins1@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:lordearena@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://medium.com/@AndersonMartins1" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
